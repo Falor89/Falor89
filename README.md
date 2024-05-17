@@ -36,6 +36,7 @@
 <div align="center">
   My Codewars Badge:
 
-  [![image](https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/Falor/badges/large))
+  ![image](https://www.codewars.com/users/Falor/badges/large)
+  ---
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=falor89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
