@@ -4,9 +4,14 @@
 <div id="about" align="center">
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="600"/>
 </div>
-
----
-
+###
+<h1 align="center">Всем привет👋 Меня зовут Максим!</h1>
+###
+  <div id="badge">
+    <a href="https://t.me/Falor">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram badge">
+    </a>
+  </div>
 ### :man_technologist: About me:
 - I am Junior Web-developer
 - Yandex.Practicum student
